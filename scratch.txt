@@ -11,21 +11,6 @@ Fragen und Antworten
   import * as pkg from 'rxjs/package.json';
   console.log("RxJS.version", pkg.version)
  
-Sandkasten
- https://stackblitz.com/edit/rxjs-nwjxad?devtoolsheight=60
- Observables
-  https://stackblitz.com/edit/rxjs-srccbz?devtoolsheight=60&file=index.ts
- Subjects
-  https://stackblitz.com/edit/rxjs-uchiux?devtoolsheight=60&file=index.ts 
- Operators
-  mergeMap, switchMap, scan, defer
-  https://stackblitz.com/edit/rxjs-6l5gjd?devtoolsheight=60&file=index.ts
-  5.2.23
-   mit github repo verbunden
-   SSH git@github.com:tschmeissel/rxjs-6l5gjd.git
- Error handling
-  https://stackblitz.com/edit/rxjs-cz2xmu?devtoolsheight=60&file=index.ts,package.json
-
 Done 
  http://reactivex.io/documentation/observable.html
   “Hot” and “Cold” Observables
