@@ -3,6 +3,7 @@
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/rxjs-6l5gjd)
 
 API DOC
+ https://rxjs.dev/api
  https://rxjs-dev.firebaseapp.com/api
 
 https://fireship.io/lessons/rxjs-basic-pro-tips/
