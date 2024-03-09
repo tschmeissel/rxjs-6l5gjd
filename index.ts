@@ -32,11 +32,11 @@ console.clear();
 /** 
  * Simple example where input from two observables get merged.
  */
-// from([1, 2]).pipe(
-//   mergeMap(x => from([3, 4]).pipe(
-//     map((y) => `${x} ${y}`))
-//   )
-// ).subscribe(console.log);
+from([1, 2]).pipe(
+  mergeMap(x => from([3, 4]).pipe(
+    map((y) => `${x} ${y}`))
+  )
+).subscribe(console.log);
 
 /**
  * Add filtering to above example
