@@ -2,7 +2,7 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/rxjs-6l5gjd)
 
-API DOC
+API Doc
  https://rxjs.dev/api
  https://rxjs-dev.firebaseapp.com/api
 
